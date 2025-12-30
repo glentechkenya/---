@@ -1,18 +1,18 @@
 {
-  "name": "RAHEEM-XMD-2",
+  "name": "GLEN-X",
   "version": "10.8.1",
-  "description": "RAHEEM-CM",
+  "description": "GLEN-X",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Raheem-cm",
+    "start": "pm2 start index.js --deep-monitoring --attach --name GLEN-X",
     "stop": "pm2 stop Raheem-cm",
-    "restart": "pm2 restart Raheem-cm",
+    "restart": "pm2 restart Glen-x",
     "build": "echo 'No build step configured'",
     "test": "echo '✔️ Bot runs fine — no test yet'"
   },
-  "keywords": ["RAHEEM-CM", "whatsapp-bot", "whatsapp md bot"],
-  "author": "RAHEEM-XMD-2",
+  "keywords": ["GLEN-X", "whatsapp-bot", "whatsapp md bot"],
+  "author": "GLEN TECH",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
