@@ -89,13 +89,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 RAHEEM-XMD-2 using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`GLEN-X using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["RAHEEM-XMD-2", "safari", "3.3"],
+            browser: ["GLEN-X", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -114,25 +114,25 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Connected Successfully RAHEEM-XMD-2♻️"));
+                    console.log(chalk.green("Connected Successfully GLEN-X♻️"));
                     Matrix.sendMessage(Matrix.user.id, { 
-                        image: { url: "https://files.catbox.moe/vgb4cw.jpg" }, 
+                        image: { url: "https://files.catbox.moe/hyo6jb.jpg" }, 
                         caption: `╓─────────────────╖
-│WELCOME TO RAHEEM-XMD-2 
+│WELCOME TO ＧＬＥＮ-Ｘ 
 ╙─────────────────╜
 *⚠️ Hello there User! 🤖*
 
 ════════════════════
-♻️ CHANNEL : https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
+♻️ CHANNEL : https://whatsapp.com/channel/0029Vb5hEyp0gcfMx7GQfe0m
 
 ═══════════════════
 *🪀 Your Prefix:* = *${prefix}*
 ═══════════════════
 
-💬 REPO : https://github.com/Raheem-cm/RAHEEM-XMD-2 
+💬 REPO : https://github.com/glentechkenya/--- 
 
 ╚══════════════════╝
-       © DEV RAHEE-CM`
+       © DEV GLEN TECH`
                     });
                     initialConnection = false;
                 } else {
@@ -180,7 +180,7 @@ async function start() {
                     await Matrix.readMessages([mek.key]);
                     
                     if (config.AUTO_STATUS_REPLY) {
-                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By RAHEEM-XMD-2';
+                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By GLEN-X';
                         await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
                     }
                 }
