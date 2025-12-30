@@ -4,7 +4,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "RAHEEM-XMD-2>>>PoZXHABR#avdbUBpb_iJdpAgpgxTif2tKWE4y30tADqir93bdUqQ",
+  SESSION_ID: process.env.SESSION_ID || "GLEN-X>>>PoZXHABR#avdbUBpb_iJdpAgpgxTif2tKWE4y30tADqir93bdUqQ",
   PREFIX: process.env.PREFIX || '+',
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN !== undefined ? process.env.AUTO_STATUS_SEEN === 'true' : true, 
   AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY !== undefined ? process.env.AUTO_STATUS_REPLY === 'true' : true,
@@ -22,11 +22,11 @@ const config = {
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
-  BOT_NAME: process.env.BOT_NAME || "RAHEEM-XMD-2",
-  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/vgb4cw.jpg",
-  DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO RAHEEM-XMD-2",
-  OWNER_NAME: process.env.OWNER_NAME || "RAHEEM-CM",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "255763111390",
+  BOT_NAME: process.env.BOT_NAME || "GLEN-X",
+  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/hyo6jb.jpg",
+  DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO GLEN-X",
+  OWNER_NAME: process.env.OWNER_NAME || "GLEN-X",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254718190267",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
