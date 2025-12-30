@@ -1,6 +1,6 @@
-name: RAHEEM-XMD-2
+name: GLEN-X
 services:
-  - name: RAHEEM-XMD-2
+  - name: GLEN-X
     type: web
     ports:
       - 5000
