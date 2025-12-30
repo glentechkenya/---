@@ -1,14 +1,14 @@
 {
-  "name": "RAHEEM-XMD-2",
-  "description": "🚀 RAHEEM XMD 2 WhatsApp MultiDevice Bot – BY RAHEEM-CM 💡✨",
-  "logo": "https://files.catbox.moe/vgb4cw.jpg",
-  "keywords": ["RAHEEM-CM", "whatsapp-bot", "whatsapp-md-bot"],
-  "repository": "https://github.com/Raheem-cm/RAHEEM-XMD-2",
+  "name": "GLEN-X",
+  "description": "🚀 GLEN-X WhatsApp MultiDevice Bot – BY GLEN TECH 💡✨",
+  "logo": "https://files.catbox.moe/hyo6jb.jpg",
+  "keywords": ["Glen-x", "whatsapp-bot", "whatsapp-md-bot"],
+  "repository": "https://github.com/glentechkenya/---",
   "stack": "container",
   "env": { 
   
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with the word RAHEEM-XMD-2>>>",
+      "description": "Ensure your session Id starts with the word Glen-x>>>",
       "required": true,
       "value": ""
     },
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "RAHEEM-CM"
+      "value": "GLEN-X"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "255763111390"
+      "value": "254104882369"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
