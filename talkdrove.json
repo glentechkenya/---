@@ -1,11 +1,11 @@
 
 {
-    "bot-name": "RAHEEM-XMD-2",
-    "description": "Whiskey Sockets Baileys Whatsapp bot BY RAHEEM CM",
-    "logo": "https://files.catbox.moe/vgb4cw.jpg",
+    "bot-name": "GLEN-X",
+    "description": "Whiskey Sockets Baileys Whatsapp bot BY GLEN TECH",
+    "logo": "https://files.catbox.moe/hyo6jb.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://professeur-xd-session-by-professeur-hack.onrender.com",
-    "owner-verification": "princeyvenssindraguela@gmail.com",
+    "owner-verification": "glentech287@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -25,7 +25,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "RAHEEM-CM"
+      "value": "GLEN-X"
   
     },
     
@@ -77,27 +77,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*RAHEEM-XMD-2 BOT VIEWED YOUR STATUS *"
+      "value": "*GLEN-X BOT VIEWED YOUR STATUS *"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "RAHEEM-CM"
+      "value": "GLEN-X"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255763111390"
+      "value": "254718190267"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "RAHEEM-CM"
+      "value": "GLEN-X"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY  RAHEEM-CM*"
+      "value": "*© POWERED BY  GLEN TECH*"
     },
 
       "DELETE_LINKS": {
