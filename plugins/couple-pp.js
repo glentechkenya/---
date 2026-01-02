@@ -25,8 +25,8 @@ const couplepp = async (m, Matrix) => {
       forwardingScore: 999,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363398101781980@newsletter',
-        newsletterName: "𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗-𝐕𝟏🪀",
+        newsletterJid: '❤️❤️❤️❤️',
+        newsletterName: "GLEN-X",
         serverMessageId: 143
       }
     };
