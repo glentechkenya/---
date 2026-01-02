@@ -57,10 +57,10 @@ DEPLOY SIMPLY GLEN-X
   target="_blank"> <img title="DEPLOY GLEN-X BOT" src="https://img.shields.io/badge/_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=gold&color=black" width="260" height="50"/>
   </a>
      <a href="https://host.talkdrove.com/share-bot/82">
-    <img src="https://img.shields.io/badge/🇹🇿_DEPLOY_ON_TALKDROVE-000000?style=for-the-badge&logo=subaru&logoColor=gold&color=black" width="260" height="50"/>
+    <img src="https://img.shields.io/badge/_DEPLOY_ON_TALKDROVE-000000?style=for-the-badge&logo=subaru&logoColor=gold&color=black" width="260" height="50"/>
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Raheem-cm/RAHEEM-XMD-2&ports=3000">
-    <img src="https://img.shields.io/badge/🇹🇿_DEPLOY_ON_KEYOB-000000?style=for-the-badge&logo=toyota&logoColor=gold&color=black" width="260" height="50"/>
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Raheem-cm/GLEN-X2&ports=3000">
+    <img src="https://img.shields.io/badge/_DEPLOY_ON_KEYOB-000000?style=for-the-badge&logo=toyota&logoColor=gold&color=black" width="260" height="50"/>
   </a>
 </p>
 
