@@ -15,7 +15,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
     try {
       await m.React('🕘');
-      await m.reply('A moment, *RAHEEM-XMD-2🪀* is generating your lyrics request...');
+      await m.reply('A moment, *GLEN-X* is generating your lyrics request...');
 
       if (!text.includes('|')) {
         return m.reply('Please provide the song name and artist name separated by a "|", for example: Spectre|Alan Walker.');
@@ -45,8 +45,8 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
           {
             name: "cta_url",
             buttonParamsJson: JSON.stringify({
-              display_text: "sʜᴏᴡ 💜 ғᴏʀ RAHEEM-XMD-2",
-              url: `https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r`
+              display_text: "sʜᴏᴡ 💜 ғᴏʀ GLEN-X",
+              url: `https://whatsapp.com/channel/0029Vb5hEyp0gcfMx7GQfe0m`
             })
           },
           {
