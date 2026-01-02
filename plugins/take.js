@@ -30,7 +30,7 @@ const handleTakeCommand = async (m, gss) => {
     if (!mediaBuffer) throw new Error('Failed to download media.');
 
     await gss.sendImageAsSticker(m.from, mediaBuffer, m, { packname: global.packname, author: global.author });
-    m.reply('RAHEEM-XMD-2 MEILLEUR BOT DE TOUT LES TEMPS!!');
+    m.reply('ＧＬＥＮ-Ｘ MEILLEUR BOT DE TOUT LES TEMPS!!');
   } catch (error) {
     m.reply(`Error: ${error.message}`);
   }
