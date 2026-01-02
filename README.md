@@ -6,7 +6,7 @@
 ---
 <a
 href="https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r">
- <img alt="GLEN-X" height="400" src="https://files.catbox.moe/hyo6jb.jpg"></a>
+ <img alt="GLEN-X" height="400" src="https://ibb.co/7t62Ytv3"></a>
 </p>
 
 ---
