@@ -29,8 +29,8 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: ' https://files.catbox.moe/6xah6z.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *RAHEEM-XMD-2* 〕━━┈⊷
+            image: { url: ' https://ibb.co/7t62Ytv3' }, // Image URL from your request
+            caption: `╭━━〔 *ＧＬＥＮ-Ｘ* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* : *${config.OWNER_NAME}*
@@ -38,14 +38,14 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Version*: 2.0.0 Beta
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHEEM CM*`, // Display the owner's details
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ GLEN-X*`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363398101781980@newsletter',
-                    newsletterName: 'RAHEEM-XMD-2🪀',
+                    newsletterJid: '❤️❤️❤️❤️❤️',
+                    newsletterName: 'GLEN-X',
                     serverMessageId: 143
                 }            
             }
