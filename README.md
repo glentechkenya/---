@@ -5,7 +5,7 @@
 ---
 ---
 <a
-href="https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r">
+href="https://whatsapp.com/channel/0029Vb5hEyp0gcfMx7GQfe0m">
  <img alt="GLEN-X" height="400" src="https://ibb.co/7t62Ytv3"></a>
 </p>
 
