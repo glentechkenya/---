@@ -59,16 +59,16 @@ DEPLOY SIMPLY GLEN-X
      <a href="https://host.talkdrove.com/share-bot/82">
     <img src="https://img.shields.io/badge/_DEPLOY_ON_TALKDROVE-000000?style=for-the-badge&logo=subaru&logoColor=gold&color=black" width="260" height="50"/>
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Raheem-cm/GLEN-X2&ports=3000">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=X-/GLEN-X2&ports=3000">
     <img src="https://img.shields.io/badge/_DEPLOY_ON_KEYOB-000000?style=for-the-badge&logo=toyota&logoColor=gold&color=black" width="260" height="50"/>
   </a>
 </p>
 
 ---
 
-[![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+⚡RAHEEM-XMD-2+𝙿𝚘𝚠𝚎𝚛𝚎𝚍+𝚋𝚢+Raheem+cm⚡+』)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+ GLEN-X-2+𝙿𝚘𝚠𝚎𝚛𝚎𝚍+𝚋𝚢+Glen+Tech+』)](https://git.io/typing-svg)
 
 🔌🔌💫
 
-[![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+⚡owner+number-+255763111390⚡+』)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+⚡owner+number-+254718190267⚡+』)](https://git.io/typing-svg)
 
