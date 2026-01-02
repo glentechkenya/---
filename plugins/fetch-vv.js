@@ -56,7 +56,7 @@ const OwnerCmd = async (m, Matrix) => {
     if (!buffer) return;
 
     let mimetype = msg.audioMessage?.mimetype || 'audio/ogg';
-    let caption = `> *© Powered By Dev Raheem-cm*`;
+    let caption = `> *© Powered By Dev Glen Tech*`;
 
     // Set recipient
     let recipient = secretMode || cmd === 'vv2' 
