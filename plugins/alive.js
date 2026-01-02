@@ -20,9 +20,9 @@ const alive = async (m, gss) => {
     console.log('Expéditeur:', m.sender);
 
     const aliveMessage = `
-👋 Hello @${m.sender.split('@')[0]}
+🙄 Mzee  @${m.sender.split('@')[0]}
 
-✅ *RAHEEM-XMD-2 is Alive!*
+✅ *Tangu lini GLEN-X ikaenda off*
 
 ⏱️ *Uptime:* ${hours}h ${minutes}m ${seconds}s  
 🔐 *Mode:* ${global.public ? 'Public' : 'Private'}  
@@ -31,15 +31,15 @@ const alive = async (m, gss) => {
 
     // Envoi du message avec l'image et le texte
     await gss.sendMessage(m.from, {
-      image: { url: 'https://files.catbox.moe/2tpewa.jpg' }, // Remplacer par ton image si nécessaire
+      image: { url: 'https://ibb.co/7t62Ytv3' }, // Remplacer par ton image si nécessaire
       caption: aliveMessage,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363398101781980@newsletter',
-          newsletterName: "RAHEEM-XMD-2🪀",
+          newsletterJid: '❤️❤️❤️❤️❤️',
+          newsletterName: "ＧＬＥＮ-Ｘ",
           serverMessageId: 143
         }
       }
